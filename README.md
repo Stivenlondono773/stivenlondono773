@@ -44,11 +44,8 @@
 ---
 
 ### 🎛️ Frecuencia de Estudio & Audio
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stivenlondono773&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
 
-<br>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Riding%20the%20rhythm%20of%20code%20and%20sound&fontSize=22&fontColor=61DAFB&animation=fadeIn" alt="Audio Banner" />
