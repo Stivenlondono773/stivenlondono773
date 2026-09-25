@@ -55,5 +55,5 @@
 </div>
 
 <div align="center">
-  <p><em>🥁 "Manteniendo el tempo tanto en la ejecución de código como en la producción sonora."</em></p>
+  <p><em>🥁 "Les dejo la paz. Es mi propia paz la que les doy, pero no se la doy como la da el mundo. No se preocupen ni tengan miedo. Juan 14:27"</em></p>
 </div>
