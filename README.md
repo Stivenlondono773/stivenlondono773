@@ -41,12 +41,19 @@
 
 ---
 
-### Estadísticas de GitHub
+---
+
+### 🎛️ Frecuencia de Estudio & Audio
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stivenlondono773&show_icons=true&theme=tokyonight&hide_border=true" alt="Stiven's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stivenlondono773&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stivenlondono773&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Riding%20the%20rhythm%20of%20code%20and%20sound&fontSize=22&fontColor=61DAFB&animation=fadeIn" alt="Audio Banner" />
+</div>
+
+<div align="center">
+  <p><em>🥁 "Manteniendo el tempo tanto en la ejecución de código como en la producción sonora."</em></p>
 </div>
