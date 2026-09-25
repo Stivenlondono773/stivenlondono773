@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>¡Hola, soy Stiven Londoño! 👋</h1>
-  <h3>💻 Programador | ⚙️ Planeador de Mantenimiento | 🥁 Músico & Productor</h3>
+  <h1>¡Hola, soy Stiven Londoño! </h1>
+  <h3> Programador | Planeador de Mantenimiento | Músico & Productor</h3>
   <p>Construyendo puentes entre la automatización industrial, el desarrollo de software y la producción sonora.</p>
 </div>
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 * **Ingeniería & Desarrollo:** Actualmente estudio Ingeniería Informática en la UNIR y cuento con un título técnico en desarrollo de software. Me apasiona crear soluciones útiles, como *Amtex App* (una aplicación en React Native para automatizar cálculos de operadores en planta).
 * **Industria & Operaciones:** Trabajo como planeador de mantenimiento utilizando software CMMS (Mantum) en una compañía de manufactura, aplicando mi experiencia previa como operador.
 * **Música & Audio:** Apasionado por la percusión, la mezcla y la producción musical. Cuento con un estudio en casa equipado para grabación de baterías, diseño sonoro y uso de DAWs como Ableton Live.
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stivenlondono773&show_icons=true&theme=tokyonight&hide_border=true" alt="Stiven's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stivenlondono773&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
