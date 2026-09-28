@@ -35,11 +35,14 @@
 ---
 
 </div>
+
+<div
 ### 🎧 Mi Universo Creativo y Técnico
 * **Desarrollo Front-End & Móvil:** Creación de interfaces modernas y funcionales centradas en la experiencia de usuario (UI/UX) con React, React Native y Figma.
 * **Automatización y Procesos:** Enfoque analítico en la mejora continua de procesos de mantenimiento industrial y desarrollo de herramientas a medida.
 * **Producción Musical:** Grabación y mezcla orientada a baterías utilizando interfaces Scarlett 18i8, Roland (SPD-SX y TD-25) y Ableton Live.
 
+</div>
 ---
 
 ---
