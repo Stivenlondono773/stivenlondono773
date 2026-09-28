@@ -56,7 +56,7 @@
 </div>
 
 </div>
-### 🛠️ Pila tecnológica
+### 🛠️ Herramientas
 
 <div align="center">
 
