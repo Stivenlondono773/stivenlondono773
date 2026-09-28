@@ -54,28 +54,23 @@
 <div align="center">
   <p><em>🥁 "Les dejo la paz. Es mi propia paz la que les doy, pero no se la doy como la da el mundo. No se preocupen ni tengan miedo. Juan 14:27"</em></p>
 </div>
+
+</div>
 ### 🛠️ Pila tecnológica
 
 <div align="center">
 
-  <!-- Desarrollo Web y Móvil -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
+  
   <br>
 
-  <!-- Diseño, Backend y Bases de Datos -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-
-  <br>
-
-  <!-- Inteligencia Artificial y Herramientas -->
-  <img src="https://img.shields.io/badge/IA_%26_Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 
